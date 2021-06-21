@@ -1,0 +1,11 @@
+1.	Inheritance
+Beberapa objek bisa mewariskan dengan karakteristik atau perilaku yang sama dari induk mereka, tetapi mereka bukanlah objek yang sama. Seperti: Hewan unggas dengan memiliki berbacam jenis hewan seperti Bebek, Elang yang punya ciri yg sama seperti berbulu.
+
+Polymorphism
+Polymorphism dalam bahasa Yunani berarti “banyak bentuk”. Dapat dikatakan jika objek dapat memiliki bentuk atau implementasi yang berbeda-beda pada satu induk yang sama. Misalkan Hewan unggas sebagai induk, Elang dan bebek sebagai anak turunannya. Elang dan terbang sedangkan bebek tidak dapat terbang.
+
+Abstraction
+Abstraksi dapat dikatakan merupakan penerapan alami dari enkapsulasi. Abstraksi berarti sebuah objek hanya menunjukkan operasinya secara high-level. Misalkan pengguna lampu dapat dapat mengalirkan listrik sehingga menghasilkan cahaya, tanpa perlu mengetahui proses bagaimana proses cahaya tersebut berasal.
+
+Encapsulation
+Enkapsulasi adalah kondisi di mana attribute atau method di dalam class dibungkus dan bersifat privat. Hal ini dilakukan agar dapat melindungi data yang penting seperti password dll.
